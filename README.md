@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![BannerGitHub](https://github.com/SilvanaVitali/SilvanaVitali/assets/106769105/afb0fee5-4925-431e-a536-78561bcca55b)
 
+<!--
 <h1 align="center">Hola! soy Silvana 👋</h1>
 <h3 align="center">Desarrolladora de aplicaciones Android</h3>
+-->
 
 # 💫 About Me:
 - 🌱 Actualmente estoy aprendiendo **Jetpack Compose**
@@ -35,9 +38,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SilvanaVitali&repo=CryptoList&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SilvanaVitali/CryptoList)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SilvanaVitali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanaVitali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=SilvanaVitali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SilvanaVitali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanaVitali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SilvanaVitali&icon=5&color=0)](https://visitcount.itsvg.in)
